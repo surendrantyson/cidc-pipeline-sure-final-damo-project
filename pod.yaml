@@ -28,4 +28,4 @@ spec:
       containers:
         - name: hello
           image: csuren1/k8finalimage:latest
-          imagePullPolicy: Always
+        
