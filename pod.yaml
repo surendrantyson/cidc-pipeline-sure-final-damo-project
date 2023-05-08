@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: csuren1/k8-anbu-image:latest
+          image: csuren1/k8finalimage
           imagePullPolicy: Always
